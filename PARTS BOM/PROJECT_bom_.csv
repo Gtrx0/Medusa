@@ -1,0 +1,22 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,Cr 2023 Holder Keystone 1058,Battery_Cell,BT1 BT2,Battery_Cell,Keystone_1058_1x2032-CoinCell,2,~
+2,SMD diode,D_ALT,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35,D_ALT,D_SOD-123,35,~
+3,"Generic connector, single row, 01x04",Conn_01x04,J1,Conn_01x04,programming_port,1,~
+4,N channel mosfet,SI2302,Q1 Q2,SI2302,SI3202CDS,2,
+5,nrf51822B Breakout Board,Core51822B,U1,Core51822B,Core51822(B),1,
+6,Slide Switch,KEYSW,k1,KEYSW,SW_DIP_x1_W7.62mm_Slide,1,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Component Groups:,7,,,,,,
+Component Count:,42,,,,,,
+Fitted Components:,42,,,,,,
+Number of PCBs:,1,,,,,,
+Total components:,42,,,,,,
+Schematic Version:,,,,,,,
+Schematic Date:,,,,,,,
+BoM Date:,9/7/2018 7:01:59 PM,,,,,,
+Schematic Source:,C:\Users\Gtrx\Documents\GitHub\Medusa\PROJECT.sch,,,,,,
+KiCad Version:,Eeschema (5.0.0),,,,,,

@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:\\Users\\Gtrx\\Desktop\\BLE 5x7\\Pcb\\PROJECT.sch")
-    (date "9/1/2018 10:22:28 PM")
+    (source C:\Users\Gtrx\Documents\GitHub\Medusa\PROJECT.sch)
+    (date "9/7/2018 7:02:13 PM")
     (tool "Eeschema (5.0.0)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -635,15 +635,15 @@
         (pin (num 3) (name D) (type passive)))))
   (libraries
     (library (logical MX_Alps_Hybrids)
-      (uri "C:\\Users\\Gtrx\\Desktop\\BLE 5x7\\Pcb/MX_Alps_Hybrid.pretty-master/Schematic Library/MX_Alps_Hybrids.lib"))
+      (uri "C:\\Users\\Gtrx\\Documents\\GitHub\\Medusa/MX_Alps_Hybrid.pretty-master/Schematic Library/MX_Alps_Hybrids.lib"))
     (library (logical conn)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/conn.lib"))
     (library (logical device)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/device.lib"))
     (library (logical keyboard_parts)
-      (uri "C:\\Users\\Gtrx\\Desktop\\BLE 5x7\\Pcb/kicad_lib_tmk-master/keyboard_parts.lib"))
+      (uri C:\Users\Gtrx\Documents\GitHub\Medusa/kicad_lib_tmk-master/keyboard_parts.lib))
     (library (logical si2302)
-      (uri "C:\\Users\\Gtrx\\Desktop\\BLE 5x7\\Pcb/mitosis-parts.pretty/si2302.lib")))
+      (uri C:\Users\Gtrx\Documents\GitHub\Medusa/mitosis-parts.pretty/si2302.lib)))
   (nets
     (net (code 1) (name GND)
       (node (ref U1) (pin 1))
